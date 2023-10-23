@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Thandguch',
   domain: 'https://www.notion.so/huajian-zhang/Plants-9aa8ef3ef8a14da7b9a9bc4233db239e',
-  author: '张花钱',
+  author: '张花钱 ',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
